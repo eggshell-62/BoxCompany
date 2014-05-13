@@ -27,5 +27,9 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/eclipse/plugins/org.springframework.oxm_4.0.2.20140223-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/eclipse/plugins/org.springframework.transaction_4.0.2.20140223-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/eclipse/plugins/org.springframework.web.servlet_4.0.2.20140223-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/eclipse/plugins/org.springframework.web_4.0.2.20140223-RELEASE.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
